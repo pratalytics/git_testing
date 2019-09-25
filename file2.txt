@@ -1,0 +1,2 @@
+Added Javascript functionality
+Linked it with the html
